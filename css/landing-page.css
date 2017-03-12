@@ -41,7 +41,7 @@ p {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: linear-gradient( rgba(26, 61, 111, .4), rgba(26, 61, 111, .4) ), url('../img/vrbow.jpg') no-repeat center center;
+    background: linear-gradient( rgba(0, 0, 0, .4), rgba(0, 0, 0, .4) ), url('../img/vrbow.jpg') no-repeat center center;
 
     background-size: cover;
 }
